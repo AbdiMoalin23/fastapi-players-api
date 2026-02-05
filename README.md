@@ -6,3 +6,4 @@ A simple FastAPI project demonstrating:
 
 ### Example endpoint
 GET /players/Brady
+ 
