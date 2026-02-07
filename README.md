@@ -1,9 +1,7 @@
-## FastAPI Players API
+## FastAPI Learning
 
-A simple FastAPI project demonstrating:
-- Enum-based path parameters
-- Clean API responses
-
-### Example endpoint
-GET /players/Brady
- 
+This repo contains my FastAPI learning progress:
+- Path parameters with Enums
+- Query parameters
+- Request bodies with Pydantic models
+- POST and GET endpoints
