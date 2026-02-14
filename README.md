@@ -5,3 +5,4 @@ This repo contains my FastAPI learning progress:
 - Query parameters
 - Request bodies with Pydantic models
 - POST and GET endpoints
+- POST and GET endpoints with multiple body parameters to return user info
